@@ -97,6 +97,7 @@ class Services_SBM_Info_Delicious extends Services_SBM_Info_Abstract
     protected function extractComments($data)
     {
         $comments = array();
+        // @TODO
         if (true) {
             return $comments;
         }
